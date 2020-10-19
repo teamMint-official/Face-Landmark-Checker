@@ -15,7 +15,8 @@ Test images are stored in a "TestSet" folder.
 ## 3. Usage
 This network was proposed in the [paper](https://github.com/teamMint-official/Face-Landmark-Checker/blob/main/Appendix/mint_JS_2018_ICIP.pdf).
 Please cite this in your publications if it helps your research
-'''
+
+```
 @inproceedings{park2018robust,
   title={Robust facial pose estimation using landmark selection method for binocular stereo vision},
   author={Park, Jaeseong and Heo, Suwoong and Lee, Kyungjune and Song, Hyewon and Lee, Sanghoon},
@@ -24,4 +25,4 @@ Please cite this in your publications if it helps your research
   year={2018},
   organization={IEEE}
 }
-'''
+```
